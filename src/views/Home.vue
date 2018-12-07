@@ -13,6 +13,8 @@
     }
 </script>
 <style lang="scss">
-
+    .home{
+        color: #ffffff;
+    }
 
 </style>

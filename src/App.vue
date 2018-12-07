@@ -9,7 +9,7 @@
     height: 100%;
   }
   #app{
-    // background: url("./assets/images/pop-bg.jpg");
+    background: url("./assets/images/pop-bg.jpg");
     background-attachment: fixed;
   }
 </style>
